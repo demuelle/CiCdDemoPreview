@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloCircleController {
     @GetMapping(value="/hello")
     public String helloCircle() {
-        return "Hello, Circle";
+        return "Hello, Circle!";
     }
 }
