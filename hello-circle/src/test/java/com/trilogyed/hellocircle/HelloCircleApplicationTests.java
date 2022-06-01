@@ -10,7 +10,6 @@ class HelloCircleApplicationTests {
 
 	@Test
 	void contextLoads() {
-		fail("This stinks");
 	}
 
 }

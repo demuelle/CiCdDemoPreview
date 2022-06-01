@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6aca317b-f4f3-4c62-8100-05c93eaf7356" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.circleci/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.circleci/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-circle/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hello-circle/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-circle/src/test/java/com/trilogyed/hellocircle/HelloCircleApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello-circle/src/test/java/com/trilogyed/hellocircle/HelloCircleApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
